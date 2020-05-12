@@ -44,7 +44,8 @@ gg_final <- gg + theme(plot.title=element_text(size=14,
 
 plot(gg_final)
 ```
-![](https://github.com/jingbozhou/useful_plot_in_Python_R/blob/master/Correlation/img/Python/1-scatteplot.png)
+![](https://github.com/jingbozhou/useful_plot_in_Python_R/blob/master/Correlation/img/R/1-scatteplot.png)
+
 
 2. Python: In `matplotlib`, you can using `plt.scatterplot()`.
 
@@ -107,4 +108,4 @@ plt.legend(fontsize=18)
 #plt.savefig("./img/Python/1-scatteplot.png", bbox_inches="tight")
 plt.show()
 ```
-![](https://github.com/jingbozhou/useful_plot_in_Python_R/blob/master/Correlation/img/R/1-scatteplot.png)
+![](https://github.com/jingbozhou/useful_plot_in_Python_R/blob/master/Correlation/img/Python/1-scatteplot.png)
