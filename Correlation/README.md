@@ -107,4 +107,4 @@ plt.legend(fontsize=18)
 #plt.savefig("./img/Python/1-scatteplot.png", bbox_inches="tight")
 plt.show()
 ```
-![](https://github.com/jingbozhou/useful_plot_in_Python_R/blob/master/Correlation/img/Python/1-scatteplot.png)
+![](https://github.com/jingbozhou/useful_plot_in_Python_R/blob/master/Correlation/img/R/1-scatteplot.png)
